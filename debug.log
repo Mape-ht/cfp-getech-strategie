@@ -1,0 +1,7 @@
+[0718/073503.011:ERROR:settings.cc(401)] Settings magic is not 1129342067
+[0718/232129.374:ERROR:settings.cc(401)] Settings magic is not 1129342067
+[0719/055326.896:ERROR:process_reader_win.cc(127)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0719/055327.115:ERROR:exception_snapshot_win.cc(99)] thread ID 13292 not found in process
+[0719/055328.615:ERROR:minidumpwritedump_with_crashpad_info.cc(435)] Failed to call MiniDumpWriteDump: Seule une partie d’une requête ReadProcessMemory ou WriteProcessMemory a été effectuée. (0x8007012B)
+[0719/055328.615:ERROR:minidumpwritedump_with_crashpad_info.cc(592)] Failed to write minidump file
+[0719/055328.615:ERROR:crash_report_exception_handler.cc(132)] TryMiniDumpWriteDumpWithCrashpadInfo failed
